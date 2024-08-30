@@ -1,0 +1,7 @@
+{
+"instadefuse.prefix": "[[綠色]Retakes[普通]] ",
+
+"instadefuse.unsuccessful": "{0} 差 [深紅色]{1} 秒[白色] 就可拆除炸彈。",
+"instadefuse.successful": "{0} 成功拆除炸彈，剩餘 [綠色]{1} 秒[白色]。",
+"instadefuse.not_possible": "無法立即拆除，有手榴彈威脅！"
+}
